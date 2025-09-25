@@ -1,1 +1,2 @@
-# checkpoint_readme_2
+# About the BOOTCAMP
+Durant les trois mois de vacance, j'ai profité de ce temps libre pour m'incrire au bootcamp Full stack de GOMYCODE. Durant ce bootcamp j'a appris beaucoup de nouvelles technologies qui me permettrons de mieux travailler dans le domaine du deeveloppement d'application web. Ce bootcamp full stack intégre des technologies les plus récentes comme le ES6, REAC, NEXT.JS, NODE.JS, MONGODB, MONGOOSE. Avec toutes ces connaissances je me sent prés à affronter les projets furures.
